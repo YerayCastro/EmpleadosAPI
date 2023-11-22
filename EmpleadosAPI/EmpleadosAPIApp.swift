@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct EmpleadosAPIApp: App {
+    @StateObject var vm = EmpleadosVM()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
+                .environmentObject(vm)
         }
     }
 }

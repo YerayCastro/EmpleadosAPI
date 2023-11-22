@@ -1,0 +1,70 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "App Alert" : {
+
+    },
+    "Ascendent" : {
+
+    },
+    "By ID" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Company details" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Department" : {
+
+    },
+    "Descendent" : {
+
+    },
+    "Edit employee" : {
+
+    },
+    "Employees" : {
+
+    },
+    "Enter the %@" : {
+
+    },
+    "Gender" : {
+
+    },
+    "Personal data" : {
+
+    },
+    "Save" : {
+
+    },
+    "Search for an employee" : {
+
+    },
+    "Sorted by" : {
+
+    },
+    "Validation Error" : {
+
+    },
+    "Validation to delete" : {
+
+    }
+  },
+  "version" : "1.0"
+}

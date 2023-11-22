@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="EmpleadosAPI/EmpleadosAPI-InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>EmpleadosAPI</source>
+        <target state="translated">Empleados</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="EmpleadosAPI/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0.1" build-num="15A507"/>
+    </header>
+    <body>
+      <trans-unit id="%@ %@" xml:space="preserve">
+        <source>%1$@ %2$@</source>
+        <target state="translated"> %1$@ %2$@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="App Alert" xml:space="preserve">
+        <source>App Alert</source>
+        <target state="translated">Alerta de App</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ascendent" xml:space="preserve">
+        <source>Ascendent</source>
+        <target state="translated">Ascendente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="By ID" xml:space="preserve">
+        <source>By ID</source>
+        <target state="translated">Por ID</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="translated">Cancelar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Company details" xml:space="preserve">
+        <source>Company details</source>
+        <target state="translated">Detalles de la Empresa</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Borrar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Department" xml:space="preserve">
+        <source>Department</source>
+        <target state="translated">Departamento</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Descendent" xml:space="preserve">
+        <source>Descendent</source>
+        <target state="translated">Descendente</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit employee" xml:space="preserve">
+        <source>Edit employee</source>
+        <target state="translated">Editar empleado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Employees" xml:space="preserve">
+        <source>Employees</source>
+        <target state="translated">Empleados</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Enter the %@" xml:space="preserve">
+        <source>Enter the %@</source>
+        <target state="translated">Introduzca el %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Gender" xml:space="preserve">
+        <source>Gender</source>
+        <target state="translated">Género</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Personal data" xml:space="preserve">
+        <source>Personal data</source>
+        <target state="translated">Datos personales</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">Grabar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search for an employee" xml:space="preserve">
+        <source>Search for an employee</source>
+        <target state="translated">Buscar un empleado</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sorted by" xml:space="preserve">
+        <source>Sorted by</source>
+        <target state="translated">Ordenar por</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Validation Error" xml:space="preserve">
+        <source>Validation Error</source>
+        <target state="translated">Error de Validación</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Validation to delete" xml:space="preserve">
+        <source>Validation to delete</source>
+        <target state="translated">Validación para borrado</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

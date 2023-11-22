@@ -17,6 +17,28 @@
         }
       }
     },
+    "Accounting" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contabilidad"
+          }
+        }
+      }
+    },
+    "Address" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dirección"
+          }
+        }
+      }
+    },
     "App Alert" : {
       "localizations" : {
         "es" : {
@@ -33,6 +55,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ascendente"
+          }
+        }
+      }
+    },
+    "Business Development" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desarrollo de Negocio"
           }
         }
       }
@@ -117,12 +150,45 @@
         }
       }
     },
+    "Engineering" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingeniería"
+          }
+        }
+      }
+    },
     "Enter the %@" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Introduzca el %@"
+          }
+        }
+      }
+    },
+    "Female" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Femenino"
+          }
+        }
+      }
+    },
+    "First Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre"
           }
         }
       }
@@ -137,12 +203,78 @@
         }
       }
     },
+    "Human Resources" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recursos Humanos"
+          }
+        }
+      }
+    },
+    "Last Name" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apellidos"
+          }
+        }
+      }
+    },
+    "Male" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masculino"
+          }
+        }
+      }
+    },
     "Personal data" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Datos personales"
+          }
+        }
+      }
+    },
+    "Product Management" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestión de Producto"
+          }
+        }
+      }
+    },
+    "Research and Development" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Investigación y Desarrollo"
+          }
+        }
+      }
+    },
+    "Sales" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ventas"
           }
         }
       }
@@ -167,12 +299,56 @@
         }
       }
     },
+    "Services" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Servicios"
+          }
+        }
+      }
+    },
     "Sorted by" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ordenar por"
+          }
+        }
+      }
+    },
+    "Support" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soporte"
+          }
+        }
+      }
+    },
+    "Training" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formación"
+          }
+        }
+      }
+    },
+    "Username" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usuario"
           }
         }
       }
@@ -193,6 +369,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Validación para borrado"
+          }
+        }
+      }
+    },
+    "ZIP Code" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Código Postal"
           }
         }
       }
